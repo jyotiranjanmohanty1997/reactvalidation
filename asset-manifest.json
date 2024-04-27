@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactvalidation/static/css/main.96330e5a.css",
+    "main.js": "/reactvalidation/static/js/main.22ef79d2.js",
+    "static/js/787.7eca9f63.chunk.js": "/reactvalidation/static/js/787.7eca9f63.chunk.js",
+    "index.html": "/reactvalidation/index.html",
+    "main.96330e5a.css.map": "/reactvalidation/static/css/main.96330e5a.css.map",
+    "main.22ef79d2.js.map": "/reactvalidation/static/js/main.22ef79d2.js.map",
+    "787.7eca9f63.chunk.js.map": "/reactvalidation/static/js/787.7eca9f63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96330e5a.css",
+    "static/js/main.22ef79d2.js"
+  ]
+}
